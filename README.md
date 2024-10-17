@@ -1,4 +1,4 @@
 # hello-git
 Przyklad na NiOSR
-#Credits
+# Credits
 Repozytorium stworzone podczas zajec na PUT
